@@ -19,6 +19,8 @@ Tecnologías utilizadas: React, Redux, Express, Chakra UI
 Enlace al repositorio: (https://github.com/martinellilucas/Henry-gym)
 
 Contacto
-Si deseas colaborar en proyectos interesantes o tienes alguna pregunta, no dudes en contactarme a través de [correo electrónico o LinkedIn].
+Si deseas colaborar en proyectos interesantes o tienes alguna pregunta, no dudes en contactarme:
+Correo: tobiaszapata99@gmail.com
+LinkedIn: https://www.linkedin.com/in/tobias-zapata-a50383206/
 
 ¡Gracias por visitar mi perfil de GitHub! Espero que encuentres mis proyectos y contribuciones interesantes. Estoy abierto a nuevas oportunidades y emocionado por colaborar en futuros proyectos.
