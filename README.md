@@ -11,8 +11,11 @@ Express
 PostgreSQL
 Sequelize
 Tailwind CSS
+
 Proyectos destacados
+
 Henry's Gym
+
 Henry's Gym es una aplicación web de gestión de gimnasios desarrollada utilizando tecnologías como React, Redux, Express y Chakra UI. El objetivo principal de este proyecto fue crear una plataforma intuitiva y funcional que permitiera a los usuarios gestionar sus membresías, reservar clases y realizar un seguimiento de su progreso en el gimnasio.
 
 Tecnologías utilizadas: React, Redux, Express, Chakra UI
