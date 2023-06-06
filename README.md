@@ -1,16 +1,24 @@
-### Hi there 👋
+Bienvenido a mi perfil de GitHub
+¡Hola! Soy Tobias Zapata, un desarrollador Full Stack apasionado por la creación de soluciones tecnológicas innovadoras. Este repositorio contiene una muestra de mis proyectos y contribuciones en el campo del desarrollo web.
 
-<!--
-**tob1zap/tob1zap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tecnologías principales
+JavaScript
+ReactJS
+NextJS
+Redux
+Node.js
+Express
+PostgreSQL
+Sequelize
+Tailwind CSS
+Proyectos destacados
+Henry's Gym
+Henry's Gym es una aplicación web de gestión de gimnasios desarrollada utilizando tecnologías como React, Redux, Express y Chakra UI. El objetivo principal de este proyecto fue crear una plataforma intuitiva y funcional que permitiera a los usuarios gestionar sus membresías, reservar clases y realizar un seguimiento de su progreso en el gimnasio.
 
-Here are some ideas to get you started:
+Tecnologías utilizadas: React, Redux, Express, Chakra UI
+Enlace al repositorio: (https://github.com/martinellilucas/Henry-gym)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contacto
+Si deseas colaborar en proyectos interesantes o tienes alguna pregunta, no dudes en contactarme a través de [correo electrónico o LinkedIn].
+
+¡Gracias por visitar mi perfil de GitHub! Espero que encuentres mis proyectos y contribuciones interesantes. Estoy abierto a nuevas oportunidades y emocionado por colaborar en futuros proyectos.
