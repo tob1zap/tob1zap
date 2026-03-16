@@ -1,4 +1,3 @@
-Bienvenido a mi perfil de GitHub
 ¡Hola! Soy Tobias Zapata, un desarrollador Full Stack apasionado por la creación de soluciones tecnológicas innovadoras. Este repositorio contiene una muestra de mis proyectos y contribuciones en el campo del desarrollo web.
 
 Perfil Profesional
