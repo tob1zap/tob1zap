@@ -12,6 +12,7 @@ Bootcamp SoyHenry - Proyecto grupal (may 2023 - jun 2023)
 -Backend: Node.js, Express, PostgreSQL, Sequelize <br>
 -Funcionalidades: autenticación de usuarios (Auth0), búsqueda y filtrado, comentarios moderados, notificaciones por email. <br>
 -Repositorio: github.com/martinellilucas/Henry-gym <br>
+
 Sitio web para radio (proyecto individual) - En desarrollo (2025) <br>
 -Página web para una radio real: desarrollo completo del sitio desde cero. <br>
 -Tecnologías: Next.js, Firebase, FirebaseAuth, Vercel, Tailwind. <br>
